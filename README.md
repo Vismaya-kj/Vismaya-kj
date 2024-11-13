@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vismaya-kj
 - 👀 I am deeply interested in pursuing a career in the tech field
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures
-- 💞️ I’m looking to collaborate  with like-minded professionals and potential employers! 😃
 - 📫 How to reach me -
      Email: vismayajayakumar38@gmail.com
      Linkedin:https://www.linkedin.com/in/vismayakjayan/
